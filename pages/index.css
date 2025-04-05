@@ -146,6 +146,11 @@
   gap: 40px;
 }
 
+.recipes__videos_wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 .recipes__iframe_content {
   width: 480px;
   height: 273px;
