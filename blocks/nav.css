@@ -28,6 +28,6 @@
   font-weight: 500;
 }
 
-/* .nav__link:hover {
-    color: #d35722;
-  } */
+.nav__link:hover {
+  opacity: 50%;
+}
