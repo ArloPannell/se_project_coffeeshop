@@ -17,12 +17,14 @@
   letter-spacing: -0.6px;
   margin-left: 80px;
   margin-top: 183px;
+  margin-bottom: 0px;
 }
 
 .span-accent {
   font-family: "Noto serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
+  font-weight: normal;
   line-height: 72px;
   color: #3f96f3;
 }
@@ -35,6 +37,7 @@
   color: #000;
   margin-top: 28px;
   margin-left: 80px;
+  margin-bottom: 0px;
 }
 
 .header__image {
