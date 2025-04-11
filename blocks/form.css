@@ -12,6 +12,16 @@
   border-style: none;
 }
 
+/* This section is to put asterisks after the labels */
+.form__label::after {
+  content: " *";
+}
+/* The picture in the brief does not have an asterisk on the checkbox,
+so eliminating that one here */
+.form__label:last-of-type::after {
+  content: "";
+}
+
 .form__input {
   margin-bottom: 32px;
   margin-top: 10px;
