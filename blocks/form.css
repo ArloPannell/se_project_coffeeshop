@@ -33,6 +33,7 @@ so eliminating that one here */
 }
 
 .form__button {
+  border: none;
   margin-bottom: 32px;
   padding: 15px 20px;
   width: 100%;
